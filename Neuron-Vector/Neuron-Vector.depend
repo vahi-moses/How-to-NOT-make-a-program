@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1502022118 source:c:\users\moj¿esz\documents\w³asne\pongo\neuron-vector\neuron.cpp
+	"neuron.h"
+
+1504000775 c:\users\moj¿esz\documents\w³asne\pongo\neuron-vector\neuron.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<vector>
+
+1502022361 source:c:\users\moj¿esz\documents\w³asne\pongo\neuron-vector\main.cpp
+	"neuron.h"
+	<iostream>
+	<vector>
+	<cmath>
+
