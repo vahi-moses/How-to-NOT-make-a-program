@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1502137648 source:c:\users\moj¿esz\documents\w³asne\pongo\new neuron\main.cpp
+	"neuron.h"
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<cmath>
+
+1504002520 c:\users\moj¿esz\documents\w³asne\pongo\new neuron\neuron.h
+	<vector>
+	<iostream>
+
+1502137669 source:c:\users\moj¿esz\documents\w³asne\pongo\new neuron\neuron.cpp
+	"neuron.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+
